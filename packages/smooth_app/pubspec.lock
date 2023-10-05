@@ -321,10 +321,10 @@ packages:
     dependency: "direct main"
     description:
       name: crop_image
-      sha256: "2c70294bdcb0f2fd8b7d660535b314eb5d2477000057e1f30db8295d1588c422"
+      sha256: "12aada0b838365f9be08077814b75fe3113384987ad46119d56b042c1c613045"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.10"
+    version: "1.0.11"
   cross_file:
     dependency: transitive
     description:
@@ -1067,10 +1067,10 @@ packages:
     dependency: "direct main"
     description:
       name: openfoodfacts
-      sha256: fa136e570e5751286882d4e62bcbfe1173df75f98c12dc7247eb89c7aeba8fa5
+      sha256: afd34c76e60dddc614ebf1e370985548d58d5e15a007118f3c3e9d95a2728c6a
       url: "https://pub.dev"
     source: hosted
-    version: "2.10.1"
+    version: "3.0.0"
   openfoodfacts_flutter_lints:
     dependency: "direct dev"
     description:
